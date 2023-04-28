@@ -7,5 +7,8 @@
 #### 🛠️Tools🛠️
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
-[![dohyeondol](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyeondol)](https://solved.ac/dohyeondol)
+<div align="right">
+  [![dohyeondol](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyeondol)](https://solved.ac/dohyeondol)
+</div>
+
 <img src="http://mazandi.herokuapp.com/api?handle={dohyeondol}&theme=warm"/>
