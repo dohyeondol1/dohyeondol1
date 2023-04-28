@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/>
 
 <div align="right">
-  [![dohyeondol](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyeondol)](https://solved.ac/dohyeondol)
+[![dohyeondol](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyeondol)](https://solved.ac/dohyeondol)
 </div>
 
 #### 📝Studying📝  
