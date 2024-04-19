@@ -11,7 +11,7 @@
 
 <div align="left">       
 <details>
-<summary><h3>Projects & Blog</h3></summary>
+<summary><h3>Projects & Blog💻</h3></summary>
 <div markdown="1">   
 </div>
   
@@ -33,26 +33,31 @@
 <div markdown="1">       
 </div>
   
-### 🧑‍💻Language🧑‍💻
+### 🧑‍💻Languages🧑‍💻
 <div>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
-<br><br>
+<br>
   
 ### 📝Studying📝  
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 </div>
-<br><br>
+<br>
 
 ### 🤔Interesting🤔
-관심있는 기술들
-<br><br>
+<div>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+</div>  
+<br>
 
 ### 🤜Collaboration Tools🤛  
 <div>
@@ -60,7 +65,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 </div>
-<br><br>
+<br>
 </details>
 
 <div align="left">
