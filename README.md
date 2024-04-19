@@ -1,5 +1,3 @@
-<div align="left">
-
 ## 🐢Dohyeondol1🐢 <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohyeondol1&count_bg=%23313131&title_bg=%23313131&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
 **- 묵묵히 앞으로가는 거북이 개발자 도현석입니다.🐢**<br><br>
 **- 모든 분야에 열려있는 개발자입니다.😊** <br><br>
@@ -83,5 +81,3 @@
 ### Contact
 <img src="https://img.shields.io/badge/dohyeondol@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/doooohyeonseok/"><img src="https://img.shields.io/badge/dooohyeonseok-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-
-</div>
