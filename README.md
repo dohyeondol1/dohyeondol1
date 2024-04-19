@@ -11,7 +11,7 @@
 
 <div align="left">       
 <details>
-<summary><h3>Projects & Blog💻</h3></summary>
+<summary><h2>Projects & Blog 💻</h2></summary>
 <div markdown="1">   
 </div>
   
@@ -29,11 +29,17 @@
 
 <div align="left">       
 <details>
-<summary><h3>See More 😊</h3></summary>
+<summary><h2>See More 😊</h2></summary>
 <div markdown="1">       
 </div>
-  
-### 🧑‍💻Languages🧑‍💻
+
+### 🏫Education🏫
+* 부경대학교 전자정보통신공학부<sub>(2023.03 ~ )</sub>
+
+
+<br>
+
+### 🧑‍💻Language🧑‍💻
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -59,7 +65,7 @@
 </div>  
 <br>
 
-### 🤜Collaboration Tools🤛  
+### 🤜Collaboration Tool🤛  
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
