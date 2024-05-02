@@ -70,6 +70,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 </div>
 <br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyeondol)](https://solved.ac/jinu219/)
+
+<br>
+
 </details>
 
 <div align="left">
