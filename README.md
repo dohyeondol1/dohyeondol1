@@ -15,7 +15,7 @@
   
 ## Project
 ### WEB
-[MiniWapP](https://github.com/pknu-wap/2024_1_web3) : 동아리 내 마이크로블로그 서비스 "ㅁi니왑ㅍi" (2024. 03 ~ 현재)</br>
+[MiniWapP](https://github.com/pknu-wap/2024_1_web3) : 동아리 내 마이크로블로그 서비스 "ㅁi니왑ㅍi" (2024. 03. 15 ~ 06. 07)</br>
 
 <br>
 
