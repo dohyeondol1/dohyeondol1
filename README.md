@@ -1,7 +1,7 @@
 ## 🐢Dohyeondol1🐢 <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohyeondol1&count_bg=%23313131&title_bg=%23313131&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
 **- 묵묵히 앞으로가는 거북이 개발자 도현석입니다.🐢**<br><br>
 **- 모든 분야에 열려있는 개발자입니다.😊** <br><br>
-**- 현재 부경대학교 전자정보통신공학부 1학년 재학중입니다.🤓**
+**- 현재 부경대학교 전자정보통신공학부 재학중입니다.🤓**
 <br>
 </div>
 
