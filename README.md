@@ -73,17 +73,15 @@
 </div>
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyeondol)](https://solved.ac/jinu219/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dohyeondol)](https://solved.ac/dohyeondol/)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dohyeondol1&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeondol1&layout=compact"> 
+</div>
 
 <br>
 
 </details>
-
-<div align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dohyeondol1&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeondol1&layout=compact"> 
-</div>
 
 ### Contact
 <img src="https://img.shields.io/badge/dohyeondol@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
