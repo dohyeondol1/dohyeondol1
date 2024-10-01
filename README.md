@@ -15,14 +15,17 @@
   
 ## Project
 ### WEB
-[miniwapp](https://github.com/pknu-wap/2024_1_web3) : 동아리 내 마이크로블로그 서비스 "ㅁi니왑ㅍi" <sub>(2024. 03. 15 ~ 06. 07)</sub></br>
+[miniwapp](https://github.com/pknu-wap/2024_1_web3) : 동아리 내 마이크로블로그 서비스 "ㅁi니왑ㅍi" <sub>(2024. 03. 15 ~ 06. 07)</sub>   
+
+### GAME
+[OverClean](https://github.com/pknu-wap/OverClean) : 집주인 몰래 집을 청소하라! "OverClean" <sub>(2024. 09. 13 ~ )</sub>
 
 <br>
 
 ## Blog
-개발 중 배웠거나 느낀것을 기록하는 블로그<br><br>
+개발 중 배웠거나 느낀것을 기록하는 블로그
 <a href="https://velog.io/@dohyeondol1/posts"><img src="https://img.shields.io/badge/dohyeondol1.log-20C997?style=social&logo=Velog&logoColor=20C997"/></a>
-
+<br><br>
 </details>
 
 <div align="left">       
