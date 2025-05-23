@@ -1,7 +1,7 @@
 ## dohyeondol1
 - 다양한 프로젝트를 접하고 경험하는 것을 좋아합니다.
 - 유니티를 사용한 인디게임 개발, vue3를 사용한 웹 개발에 관심이 많습니다.
-- 블로그: <a href="https://dohyeondol1.github.io">byte348</a>
+- blog :  <a href="https://dohyeondol1.github.io">byte348</a>
 
 <table>
   <tr>
