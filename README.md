@@ -1,7 +1,7 @@
 ## dohyeondol1
 
 <picture>
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dohyeondol1&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dohyeondol1">
 </picture>
 
 - 다양한 분야의 프로젝트를 접하고 경험하는 것을 좋아합니다.
